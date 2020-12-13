@@ -1,5 +1,13 @@
 # 12 Steps to Navier Stokes
 
+## Note:
+
+Github sometimes has trouble rendering Jupyter notebooks.
+Your best bet is to clone this repository and run the notebooks locally.
+
+If that is not an option, try pasting the link at [https://nbviewer.jupyter.org/](https://nbviewer.jupyter.org/). 
+Note that this should work, but may take a while to render the animations.
+
 ## Introduction
 
 These are the Jupyter notebooks I created while completing the course '12 Steps to Navier Stokes' by Lorena A. Barber.
